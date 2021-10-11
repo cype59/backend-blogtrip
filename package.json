@@ -9,9 +9,7 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {
-    "strapi-provider-upload-cloudinary": "^3.6.8"
-  },
+  "devDependencies": {},
   "dependencies": {
     "knex": "0.21.18",
     "mime-types": "^2.1.27",
