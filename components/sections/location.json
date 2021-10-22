@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_sections_locations",
+  "info": {
+    "name": "location",
+    "icon": "map-marker-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "footerWorldMap": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    }
+  }
+}
