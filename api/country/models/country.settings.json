@@ -26,6 +26,10 @@
     "continent": {
       "via": "countries",
       "model": "continent"
+    },
+    "category": {
+      "via": "countries",
+      "model": "category"
     }
   }
 }
